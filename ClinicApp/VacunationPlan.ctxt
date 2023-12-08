@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=VacunationPlan
+comment1.params=
+comment1.target=VacunationPlan()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ VacunationPlan\n
+comment2.params=
+comment2.target=java.util.LinkedList\ getFirstGroup()
+comment2.text=\n\ Get\ the\ patient\ list\ oder\ than\ 64\ years.\n\ \n\ @param\ \ No\ param\n\ @return\ \ \ \ \ Patient\ list.\ \n
+comment3.params=
+comment3.target=java.util.LinkedList\ getSecondGroup()
+comment3.text=\n\ Get\ the\ patient\ list\ younger\ than\ 65.\n\ \n\ @param\ \ No\ param\n\ @return\ \ \ \ \ Patient\ list.\ \n
+comment4.params=
+comment4.target=java.util.LinkedList\ getVacunatedPatients()
+comment4.text=\n\ Get\ the\ patient\ list\ of\ vacunated\ people.\n\ \n\ @param\ \ No\ param\n\ @return\ \ \ \ \ Patient\ list.\ \n
+numComments=5

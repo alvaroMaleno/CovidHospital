@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Record
+comment1.params=
+comment1.target=Record()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Record\n
+comment2.params=test
+comment2.target=void\ addTest(Test)
+comment2.text=\n\ Add\ a\ new\ test\ to\ the\ patient\ test\ record\ list.\n\ \n\ @param\ \ test\ A\ test\ object.\n\ @return\ \ \ \ \ void\n
+comment3.params=
+comment3.target=java.util.LinkedList\ getTestList()
+comment3.text=\n\ Add\ a\ new\ test\ to\ the\ patient\ test\ record\ list.\n\ \n\ @param\ \ No\ param.\n\ @return\ \ \ \ \ LinkedList<Test>\ A\ list\ within\ all\ the\ tests\ done\ to\ a\ \n\ patient.\n
+comment4.params=vaccine
+comment4.target=void\ addVaccine(Vaccine)
+comment4.text=\n\ Add\ a\ new\ vaccine\ to\ the\ patient\ vaccine\ record\ list.\n\ \n\ @param\ \ vaccine\ A\ vaccine\ object.\n\ @return\ \ \ \ \ void\n
+comment5.params=
+comment5.target=java.util.LinkedList\ getVaccineList()
+comment5.text=\n\ Get\ the\ vaccine\ list.\n\ \n\ @param\ \ No\ param.\n\ @return\ \ \ \ \ LinkedList<Vaccine>\ A\ list\ within\ all\ the\ vaccines\ \n\ inoculated\ to\ a\ patient.\n
+numComments=6

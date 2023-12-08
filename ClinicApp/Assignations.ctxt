@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Assignations
+comment1.params=
+comment1.target=Assignations()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Assignations\n
+comment2.params=
+comment2.target=java.util.LinkedList\ getAssignations()
+comment2.text=\n\ Get\ the\ assignation\ list.\n\ \n\ @param\ \ No\ param\n\ @return\ \ \ \ \ Assignation\ list.\ \n
+numComments=3

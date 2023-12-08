@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sanitary
+comment1.params=id\ name\ surname\ nif\ phone\ type
+comment1.target=Sanitary(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ Sanitary.Type)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Sanitary.\n
+comment2.params=
+comment2.target=java.util.LinkedList\ getAssignements()
+comment2.text=\n\ Get\ assignements\ of\ a\ sanitary.\n\ \n\ @param\ \ No\ params.\n\ @return\ \ \ \ \ Assignements\ List\ of\ a\ sanitary.\ \n
+comment3.params=
+comment3.target=Sanitary.Type\ getType()
+comment3.text=\n\ Get\ the\ type\ of\ a\ sanitary.\n\ \n\ @param\ \ No\ params.\n\ @return\ \ \ \ \ Type\ of\ a\ sanitary.\ \n
+comment4.params=type
+comment4.target=void\ setType(Sanitary.Type)
+comment4.text=\n\ Set\ the\ type\ of\ a\ sanitary.\n\ \n\ @param\ \ Type.\n\ @return\ \ \ void\n
+numComments=5

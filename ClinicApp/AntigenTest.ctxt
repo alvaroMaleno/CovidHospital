@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AntigenTest
+comment1.params=
+comment1.target=boolean\ isFast()
+comment1.text=\n\ Check\ if\ is\ a\ fast\ antigen\ test\ or\ not.\n\ \n\ @param\ \ No\ param\n\ @return\ \ \ \ \ True\ if\ it\ is\ fast\ and\ False\ if\ it\ is\ not.\n
+numComments=2

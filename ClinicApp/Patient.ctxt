@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Patient
+comment1.params=id\ name\ surname\ nif\ phone
+comment1.target=Patient(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Patient.\ It\ calls\ to\ Person's\ Constructor.\n
+comment2.params=
+comment2.target=Record\ getRecord()
+comment2.text=\n\ Get\ the\ Record\ of\ a\ Patient\n\ \n\ @param\ \ No\ Param\n\ @return\ \ \ \ \ The\ Record\ of\ a\ patient.\ \n
+comment3.params=
+comment3.target=Confinement\ getConfinement()
+comment3.text=\n\ Get\ the\ Confinement\ of\ a\ Patient\n\ \n\ @param\ \ No\ Param\n\ @return\ \ \ \ \ The\ Confinement\ of\ a\ patient.\ \n
+comment4.params=
+comment4.target=boolean\ isConfined()
+comment4.text=\n\ Get\ if\ a\ Patient\ is\ Confined\ or\ not.\n\ \n\ @param\ \ No\ Param\n\ @return\ \ \ \ \ If\ a\ Patient\ is\ confined\ or\ not.\ \n
+comment5.params=startDate\ endDate
+comment5.target=void\ confine(java.util.Date,\ java.util.Date)
+comment5.text=\n\ Confine\ to\ a\ Patient\ from\ StartDate\ to\ EndDate.\n\ \n\ @param\ \ Date\ startDate\ from\ a\ Confinement,\ Date\ endDate\ from\ a\ Confinement\n\ @return\ \ \ \ \ void.\ \n
+comment6.params=startDate\ numberOfDays
+comment6.target=void\ confine(java.util.Date,\ int)
+comment6.text=\n\ Confine\ to\ a\ Patient\ from\ StartDate\ for\ a\ number\ of\ days.\n\ \n\ @param\ \ Date\ startDate\ from\ a\ Confinement,\ duration\ on\ days\ of\ the\ \n\ Confinement.\n\ @return\ \ \ \ \ void.\ \n
+comment7.params=
+comment7.target=void\ unconfine()
+comment7.text=\n\ Unconfine\ to\ a\ Patient.\n\ \n\ @param\ \ NoParam\n\ @return\ \ \ \ \ void.\ \n
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VaccineStock
+comment1.params=
+comment1.target=VaccineStock()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ VaccineStock\n
+comment2.params=
+comment2.target=java.util.LinkedList\ getVaccines()
+comment2.text=\n\ Get\ the\ list\ of\ vaccines.\n\ \n\ @param\ \ No\ Param\n\ @return\ \ \ \ \ List\ of\ vaccines\n
+numComments=3
